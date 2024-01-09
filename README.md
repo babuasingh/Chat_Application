@@ -4,3 +4,5 @@ Take a look :
 
 https://github.com/babuasingh/Chat_Application/assets/100256508/0b7eca5b-e2d5-4809-8882-3828b22c98a9
 
+Author : 
+Siddharth Singh
