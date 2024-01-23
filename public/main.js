@@ -7,6 +7,9 @@ let messageInput = document.getElementById('message-input')
 let audio=new Audio('ting.mp3');
 
 
+
+
+
 let username = prompt('Enter your Name')
 nameInput.value=username
 socket.on('update', (users) => {
