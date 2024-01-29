@@ -2,7 +2,8 @@ I built a chat application using Express and Socket.io . Socket.io is a library 
 
 Take a look :
 
-https://github.com/babuasingh/Chat_Application/assets/100256508/0b7eca5b-e2d5-4809-8882-3828b22c98a9
+[screen-capture (1).webm](https://github.com/babuasingh/pulsechat/assets/100256508/de790b22-54c1-4f74-889e-12c5d11dcfa4)
 
 Author : 
+
 Siddharth Singh
